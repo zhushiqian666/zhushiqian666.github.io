@@ -43,7 +43,7 @@
  
 		<tr>
 			 <th bgcolor="BurlyWood">爱好:</th>
-			 <td>美女、超模</td>
+			 <td>打球、rap</td>
 			 <th bgcolor="BurlyWood">籍贯:</th>
 			 <td>甘肃</td>
 			 <th bgcolor="BurlyWood">邮箱:</th>
