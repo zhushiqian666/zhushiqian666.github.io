@@ -4,6 +4,7 @@
 		<title>简历</title>
 	</head>
  
+<body background=https://tva4.sinaimg.cn/mw1024/006BNqYCly1gu61oegq8sj30mj0gw74w.jpg
 >
  
 	<table border="1" align="center" cellpadding="10" width="800">
@@ -18,7 +19,7 @@
 			<td>88</td>
 			<th bgcolor="BurlyWood">民族:</th>
 			<td>汉</td>
-			<td rowspan="3" width="100"<p><a href="https://tva1.sinaimg.cn/large/006BNqYCly1gu61oeggqkj30mj0f03zp.jpg"><img border="0" src="http://a2.qpic.cn/psb?/V140HpS919MdYh/pzg3zzU**Gw41Fi7T8R9uNFUua5brWbnD3N9Bf8UPKI!/b/dAkBAAAAAAAA&bo=eAB4AAAAAAAFByQ!&rf=viewer_4" />
+			
 		</a></p></td>
 		</tr>
  
