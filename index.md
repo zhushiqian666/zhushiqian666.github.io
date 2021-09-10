@@ -4,7 +4,6 @@
 		<title>简历</title>
 	</head>
  
-<body background=https://tva4.sinaimg.cn/mw1024/006BNqYCly1gu61oegq8sj30mj0gw74w.jpg
 >
  
 	<table border="1" align="center" cellpadding="10" width="800">
